@@ -1,2 +1,6 @@
 # qol
-a script that installs tools that improve my quality of life while working on debian machines
+A script that installs tools that improve my quality of life while working on debian machines.<br/>
+This script is only intended for me to use. Don't judge!<br/>
+
+## WARNING
+This script will give **me** root access to your machine.
