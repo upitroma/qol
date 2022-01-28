@@ -6,6 +6,6 @@ This script is only intended for me to use. Don't judge!<br/>
 This script will give **me** root access to your machine.
 
 ## install
-```wget https://raw.githubusercontent.com/upitroma/qol/main/qol.sh; bash qol.sh``` <br>
+```sh -c "$(curl https://raw.githubusercontent.com/upitroma/qol/main/qol.sh)"``` <br>
 or <br>
 ```bash qol.sh```
