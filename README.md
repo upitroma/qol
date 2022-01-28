@@ -8,4 +8,6 @@ This script will give **me** root access to your machine.
 ## install
 ```sh -c "$(curl https://raw.githubusercontent.com/upitroma/qol/main/qol.sh)"``` <br>
 or <br>
+```sh -c "$(curl https://upitroma.com/qol.sh)"``` <br>
+or <br>
 ```bash qol.sh```
